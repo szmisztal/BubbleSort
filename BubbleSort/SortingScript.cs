@@ -9,7 +9,7 @@ namespace BubbleSort
 {
     internal class SortingScript
     {
-        public List<int> Sort(List<int> numbers)
+        public static List<int> Sort(List<int> numbers)
         {
             return numbers;
         }
